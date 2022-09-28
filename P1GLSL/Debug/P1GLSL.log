@@ -1,0 +1,4 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+main.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  P1GLSL.vcxproj -> \\myappsdrive.alumnos.urjc.es\Home_VDI$\fe.rengifo.2020\Downloads\P1GLSL\P1GLSL\P1GLSL\Debug\P1GLSL.exe
